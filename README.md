@@ -57,7 +57,7 @@
       <br/><br/>
       <code>LangGraph</code> <code>CrewAI</code> <code>Celery</code> <code>Redis</code> <code>Docker</code> <code>PostgreSQL</code>
       <br/><br/>
-      <a href="https://github.com/AbhiGodara/MailMind"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/AbhiGodara/mailmind"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 HealthPilot</h3>
@@ -68,7 +68,7 @@
       <code>React</code> <code>Django</code> <code>LightGBM</code> <code>LangChain</code> <code>NLP</code>
       <br/><br/>
       <a href="https://healthpilot-mocha.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/AbhiGodara/HealthPilot"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/AbhiGodara/Digital-Diagnosis-v2"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@
       <br/><br/>
       <code>RAG</code> <code>ChromaDB</code> <code>OpenAI Whisper</code> <code>Gemini</code> <code>FastAPI</code> <code>MCP</code>
       <br/><br/>
-      <a href="https://github.com/AbhiGodara/JARVIS"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/AbhiGodara/jarvis"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 JobHunter</h3>
@@ -148,14 +148,14 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+  <img src="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D Contribution Calendar"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/output/github-contribution-grid-snake.svg?v=2"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AbhiGodara/AbhiGodara/main/output/github-contribution-grid-snake.svg?v=2"/>
   </picture>
 </p>
 
