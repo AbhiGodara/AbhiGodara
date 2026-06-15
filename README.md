@@ -90,7 +90,7 @@
       <br/><br/>
       <code>n8n</code> <code>Python</code> <code>LLMs</code> <code>Hunter API</code> <code>Gmail API</code>
       <br/><br/>
-      <a href="https://github.com/AbhiGodara/JobHunter"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/AbhiGodara/job-hunter"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
