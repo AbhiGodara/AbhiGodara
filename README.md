@@ -19,7 +19,7 @@
 **AI/ML Engineer focused on Agentic Systems, RAG Pipelines & LLM Applications**
 
 - 🎓 B.Tech CSE (AI & ML) at **IIIT Nagpur** (2023–2027)
-- 🏆 **Kaggle Notebooks Expert** — Global Rank **#76 / 59,000+** (Top 0.2%) — 3🥇 5🥈 19🥉
+- 🏆 **Kaggle Notebooks Expert** — Global Rank **#76 / 60,000+** (Top 0.2%) — 3🥇 5🥈 19🥉
 - 🔨 Building production-grade **multi-agent systems**, **RAG pipelines**, and **LLM applications**
 - 🧬 Research Intern — **Transformer models for biological sequences** (Govt. of India initiative)
 - 🚀 Shipped **[HealthPilot](https://healthpilot-mocha.vercel.app)** — live AI health platform with real users
